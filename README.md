@@ -6,6 +6,8 @@ This project covers the development of Level 2 southbound functions that will al
 
 This sensor will be used trough a I2C interface of a specific Sinapse hardware (IoT Hub Agro). The L1 functions or framework to be used by the functions here developed is the I2C L1 functions developed here: https://github.com/Sinapse-Energia/M2M-I2C-Development
 
+The base code is the I2C L1 project
+
 
 # Features required
 
