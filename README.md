@@ -1,4 +1,4 @@
-# L2-LSM6DSM
+# L2-LSM6DSM-I2C
 
 Level 2 Integration of LSM6DSM sensor (iNEMO inertial module)
 
