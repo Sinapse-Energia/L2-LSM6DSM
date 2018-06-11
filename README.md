@@ -25,9 +25,9 @@ The signature should be something like:
 
 Where:
 
-type: Is an enum to config the sensor as Accelerometer, gyroscope or both
-mode: Is an enum to set the power usage: Power down, normal, low-power and high-performance
-scale: Is an enum to set the precission of the sensor, there are 5 possibilities. For example, 0 = 2G for accelerometer and 125 dps for gyroscope
+* type: Is an enum to config the sensor as Accelerometer, gyroscope or both
+* mode: Is an enum to set the power usage: Power down, normal, low-power and high-performance
+* scale: Is an enum to set the precission of the sensor, there are 5 possibilities. For example, 0 = 2G for accelerometer and 125 dps for gyroscope
 
 ## Config event mode
 
@@ -49,9 +49,9 @@ The signature should be something like
 
 Where:
 
-register_start: Is the ID of the register to start the reading in HEX
-register_quantity: Is the quantity of registers to read
-result: The content of the registers in HEX
+* register_start: Is the ID of the register to start the reading in HEX
+* register_quantity: Is the quantity of registers to read
+* result: The content of the registers in HEX
 
 
 # Ressources
