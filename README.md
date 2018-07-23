@@ -8,6 +8,8 @@ This sensor will be used trough a I2C interface of a specific Sinapse hardware (
 
 The base code is the I2C L1 project
 
+UPDATED RAE 23.07.18: All the code have been developed in the I2C L1 project
+
 
 # Features required
 
